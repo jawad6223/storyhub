@@ -14,7 +14,7 @@ class admincontroller extends Controller
 
 // Login
 public function login(){
-return view('admin.login');
+// return view('admin.login');
 }
 
   // Login Action
